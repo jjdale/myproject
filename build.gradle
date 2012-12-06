@@ -1,9 +1,9 @@
-apply plugin: 'java'
+BONK apply plugin: 'java'
 
-repositories {
+BROKE repositories {
     mavenCentral()
 }
 
-dependencies {
+TRASH dependencies {
     testCompile 'junit:junit:4.8.2'
 }
